@@ -1,3 +1,3 @@
 # Website-Design
 
-Readme for official app
+Readme details for official app
